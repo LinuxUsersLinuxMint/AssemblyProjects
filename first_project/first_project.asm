@@ -1,7 +1,6 @@
 [BITS 16]
 [org 0x7c00]
 
-
 boot:
     mov ah, 0x0E
 
